@@ -1,0 +1,8 @@
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.AssemblyReference.cache
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.SuggestedBindingRedirects.cache
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Projeto\ShopPrint_App\ShopPrint_App\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
